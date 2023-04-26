@@ -1,0 +1,19 @@
+{
+  "version": 2,
+  "dgSpecHash": "ig8Q4KQLapGJbfdzKn3x8E9MHTGCfqH2c5C7rwUTyZSN1ZWysrrR/BKk6tQZcJ9tbC0iGAE6J6mGf+Q5rcfNdQ==",
+  "success": true,
+  "projectFilePath": "C:\\Sri\\Assignment\\EmployeeInfoStreaming\\EmployeeInfoProducer\\EmployeeInfoProducer\\EmployeeInfoProducer.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\sanjamani\\.nuget\\packages\\confluent.kafka\\2.1.0\\confluent.kafka.2.1.0.nupkg.sha512",
+    "C:\\Users\\sanjamani\\.nuget\\packages\\librdkafka.redist\\2.1.0\\librdkafka.redist.2.1.0.nupkg.sha512",
+    "C:\\Users\\sanjamani\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "C:\\Users\\sanjamani\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\sanjamani\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512",
+    "C:\\Users\\sanjamani\\.nuget\\packages\\swashbuckle.aspnetcore\\6.2.3\\swashbuckle.aspnetcore.6.2.3.nupkg.sha512",
+    "C:\\Users\\sanjamani\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.2.3\\swashbuckle.aspnetcore.swagger.6.2.3.nupkg.sha512",
+    "C:\\Users\\sanjamani\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.2.3\\swashbuckle.aspnetcore.swaggergen.6.2.3.nupkg.sha512",
+    "C:\\Users\\sanjamani\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.2.3\\swashbuckle.aspnetcore.swaggerui.6.2.3.nupkg.sha512",
+    "C:\\Users\\sanjamani\\.nuget\\packages\\system.memory\\4.5.0\\system.memory.4.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}
